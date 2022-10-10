@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Andre Hirano</h1>
-<h3 align="center">I work with SaaS and as a developer</h3>
+<h3 align="center">I work with tech sales and as a developer</h3>
 <img align="right" alt="Coding" width"400" src="https://68.media.tumblr.com/c47281d28d787b0221d01c5dc4e08419/tumblr_nbo1igrC0F1t094wco1_500.gif">
 
 - 🔭 I’m currently working on **a fun mobile game**
