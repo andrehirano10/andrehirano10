@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **a fun mobile game**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **ahrhsa@gmail.com**
 
